@@ -1,4 +1,4 @@
-package LeetCodeBlind75;
+package leetcodeblind75;
 
 public class MaxConsecutiveOnes {
     public static void main(String[] args){

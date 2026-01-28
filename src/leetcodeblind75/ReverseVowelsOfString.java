@@ -1,4 +1,4 @@
-package LeetCodeBlind75;
+package leetcodeblind75;
 
 import java.util.Arrays;
 import java.util.List;
