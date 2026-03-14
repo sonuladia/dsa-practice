@@ -1,3 +1,5 @@
+package linkedlist;
+
 class Node {
     int data;
     Node next;
@@ -174,7 +176,7 @@ public class LinkedList {
     }
 
     public static void main(String args[]){
-/*        LinkedList list = new LinkedList();
+/*        linkedlist.LinkedList list = new linkedlist.LinkedList();
         list.insertAtHead(9);
         list.insertAtHead(8);
         list.insertAtHead(7);
